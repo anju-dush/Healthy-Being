@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    
+}
+ .header{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+.title{
+    margin-top: 10px;
+}
+.searchbar input{
+    background:#f0f0f0;
+    margin-top: 10px;
+    margin-left: 60px;
+    padding: 10px 25px;
+    border-radius: 20px;
+    width: 500px;
+    border-color: orangered;
+  }
+  .category{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 70px;
+  margin-left: 70px;
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  text-align: center;
+  font-size: 15px;
+  gap: 5px;
+  }
+  .tag{
+    background-repeat: repeat;
+    background-size: 100%;
+  }
+.webinar{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 100px;
+    display: flex;
+    margin-bottom: 20px;
+}
+.health{
+    margin-left: 30px;
+    padding: 40px;
+    text-align: center;
+
+}
+.ages{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+   
+}
+
+
+.baby{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+.prenatal{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+.preschool{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+.gradeschool{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+.teen{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+.youngadult{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+.baby1
+{
+    display: flex;
+    text-align: center;
+}
+.baby2
+{
+    display: flex;
+    text-align: center;
+}
+.baby3
+{
+    display: flex;
+    text-align: center;
+}
